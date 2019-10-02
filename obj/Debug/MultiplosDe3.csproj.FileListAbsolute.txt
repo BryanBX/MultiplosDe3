@@ -1,0 +1,7 @@
+E:\Google Drive\Proyects\MultiplosDe3\bin\Debug\MultiplosDe3.exe.config
+E:\Google Drive\Proyects\MultiplosDe3\bin\Debug\MultiplosDe3.exe
+E:\Google Drive\Proyects\MultiplosDe3\bin\Debug\MultiplosDe3.pdb
+E:\Google Drive\Proyects\MultiplosDe3\obj\Debug\MultiplosDe3.csprojAssemblyReference.cache
+E:\Google Drive\Proyects\MultiplosDe3\obj\Debug\MultiplosDe3.csproj.CoreCompileInputs.cache
+E:\Google Drive\Proyects\MultiplosDe3\obj\Debug\MultiplosDe3.exe
+E:\Google Drive\Proyects\MultiplosDe3\obj\Debug\MultiplosDe3.pdb
